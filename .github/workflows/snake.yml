@@ -40,3 +40,4 @@ jobs:
           add: github-snake.svg github-snake-dark.svg
           message: "chore: update contribution snake [skip ci]"
           default_author: github_actions
+          pull: "--rebase --autostash"
