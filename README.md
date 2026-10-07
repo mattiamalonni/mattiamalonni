@@ -26,7 +26,7 @@
 <br />
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="92%" />
 </div>
 
 <div align="center">
