@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mattiamalonni/mattiamalonni/output/github-snake.svg" alt="Animated contribution graph" />
+  <img src="./github-snake.svg" alt="Animated contribution graph" />
 </div>
 
 <div align="center">
