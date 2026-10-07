@@ -7,8 +7,8 @@
 </div>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mattiamalonni&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&title_color=24292f&icon_color=0969da&text_color=57606a&bg_color=ffffff" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiamalonni&layout=compact&hide_border=true&langs_count=8&title_color=24292f&text_color=57606a&bg_color=ffffff" alt="Most used languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mattiamalonni&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&title_color=24292f&icon_color=0969da&text_color=57606a&bg_color=00000000" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiamalonni&layout=compact&hide_border=true&langs_count=8&title_color=24292f&text_color=57606a&bg_color=00000000" alt="Most used languages" />
 </p>
 
 <div align="center">
@@ -17,10 +17,6 @@
 
 <div align="center">
   <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
-</div>
-
-<div align="center">
-  <img width="74%" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiamalonni&hide_border=true&background=ffffff&ring=0969da&fire=cf222e&currStreakLabel=24292f&sideLabels=57606a&currStreakNum=24292f&sideNums=24292f&dates=57606a" alt="Contribution streak" />
 </div>
 
 ## Activity
