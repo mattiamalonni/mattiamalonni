@@ -19,8 +19,6 @@
   <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
 </div>
 
-## Activity
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mattiamalonni&theme=github" alt="Contribution activity summary" />
 </div>
@@ -30,6 +28,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,express,prisma,postgres,git,github,docker,kubernetes,aws,githubactions,terraform,nginx,linux,grafana,sentry,gitlab,notion,figma,discord,pr,postman,jenkins,prometheus&perline=10" alt="Development, DevOps and engineering management tools" />
 </div>
+
+<hr />
 
 <div align="center">
   <a href="https://github.com/mattiamalonni">GitHub</a> ·
