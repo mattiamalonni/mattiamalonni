@@ -6,18 +6,14 @@
 
 </div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>GitHub overview</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=mattiamalonni&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&title_color=24292f&icon_color=0969da&text_color=57606a&bg_color=ffffff" alt="GitHub statistics" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiamalonni&layout=compact&hide_border=true&langs_count=8&title_color=24292f&text_color=57606a&bg_color=ffffff" alt="Most used languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mattiamalonni&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&title_color=24292f&icon_color=0969da&text_color=57606a&bg_color=ffffff" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiamalonni&layout=compact&hide_border=true&langs_count=8&title_color=24292f&text_color=57606a&bg_color=ffffff" alt="Most used languages" />
+</p>
+
+<div align="center">
+  <img src="./github-snake.svg" alt="Animated contribution graph" />
+</div>
 
 <div align="center">
   <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
@@ -37,10 +33,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,express,prisma,postgres,git,github,docker,kubernetes,aws,githubactions,terraform,nginx,linux,grafana,sentry,gitlab,notion,figma,discord,pr,postman,jenkins,prometheus&perline=10" alt="Development, DevOps and engineering management tools" />
-</div>
-
-<div align="center">
-  <img src="./github-snake.svg" alt="Animated contribution graph" />
 </div>
 
 <div align="center">
