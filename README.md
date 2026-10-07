@@ -15,9 +15,15 @@
   <img src="./github-snake.svg" alt="Animated contribution graph" />
 </div>
 
+<br />
+<br />
 <div align="center">
+
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,express,prisma,postgres,git,github,docker,kubernetes,aws,githubactions,terraform,nginx,linux,grafana,sentry,gitlab,notion,figma,discord,pr,postman,jenkins,prometheus&perline=10" alt="Development, DevOps and engineering management tools" />
 </div>
+<br />
+
+<br />
 
 <div align="center">
   <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
