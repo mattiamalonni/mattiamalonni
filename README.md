@@ -33,7 +33,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mattiamalonni&theme=github&bg_color=00000000" alt="Contribution activity summary" />
 </div>
 
-<hr />
+<hr color="#0969da" />
 
 <div align="center">
   <a href="https://github.com/mattiamalonni">GitHub</a> ·
